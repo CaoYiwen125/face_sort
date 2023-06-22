@@ -1,0 +1,5 @@
+【New_PCA_SVM_BP_DC】PCA特征提取+SVM分类器+BP神经网络+决策树
+【New_PCA_Bayes_KNN_MD】PCA特征提取+贝叶斯+KNN+最小距离
+【New_PCA_MD_Test】拼写错误修改+PCA特征提取+最小距离
+
+呃呃，鼠鼠我鸭，写不动了，可能存在很多问题，什么性能评估过一段时间再完成吧
